@@ -2,6 +2,6 @@
 const Routing = () =>{
     return <div>
         
-    </div>
+           </div>
 }
 export default Routing
